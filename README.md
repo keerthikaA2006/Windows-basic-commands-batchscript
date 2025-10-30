@@ -63,7 +63,11 @@ List out all the associated file extensions
 ![9](https://github.com/user-attachments/assets/12d466b2-786b-4204-87f1-edcbbc957e5f)
 ![10](https://github.com/user-attachments/assets/be37cc8e-9e63-4ff0-9b20-5902cbe1e8a2)
 ![11](https://github.com/user-attachments/assets/678e54f2-414c-4f2c-ae32-c4a8c4d8eb7a)
-![12](https://github.com/user-attachments/assets/ad41ca5a-e926-4b29-bfb0-f4bb7d7faa47)
+<img width="1045" height="626" alt="Screenshot 2025-10-30 084010" src="https://github.com/user-attachments/assets/936ba036-1149-41d9-b1e1-3d512e309620" />
+![13](https://github.com/user-attachments/assets/7d32af14-887c-427a-bad6-b72129677b4e)
+![14](https://github.com/user-attachments/assets/27e3cad3-a348-43f8-94dd-c8ba95ec2e8b)
+![15](https://github.com/user-attachments/assets/924d24c6-a55f-474a-8b32-e826bf981e43)
+
 
 ## COMMAND AND OUTPUT
 
