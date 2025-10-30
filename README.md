@@ -62,7 +62,8 @@ List out the file hello1.txt in the current directory
 List out all the associated file extensions 
 ![9](https://github.com/user-attachments/assets/12d466b2-786b-4204-87f1-edcbbc957e5f)
 ![10](https://github.com/user-attachments/assets/be37cc8e-9e63-4ff0-9b20-5902cbe1e8a2)
-
+![11](https://github.com/user-attachments/assets/678e54f2-414c-4f2c-ae32-c4a8c4d8eb7a)
+![12](https://github.com/user-attachments/assets/ad41ca5a-e926-4b29-bfb0-f4bb7d7faa47)
 
 ## COMMAND AND OUTPUT
 
