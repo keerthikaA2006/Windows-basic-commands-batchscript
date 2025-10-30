@@ -65,9 +65,10 @@ List out all the associated file extensions
 ![alt text](11.png)
 
 ![alt text](12.png)
-<img width="1067" height="611" alt="Screenshot 2025-10-30 082256" src="https://github.com/user-attachments/assets/5abbb79a-a12d-4e9f-b239-ff199a904008" />
-<img width="1064" height="609" alt="Screenshot 2025-10-30 082306" src="https://github.com/user-attachments/assets/50230b68-414e-41d6-9ef4-ed2e724375f6" />
 
+![alt text](13.png)
+
+![alt text](14.png)
 
 ![alt text](15.png)
 
